@@ -13,7 +13,7 @@ But that's one thing...
 
 Connect with me: 
  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-ponce/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/javier-ponce-utiel/)
 
 ### Technologies that I have used:
 <p align="left">
