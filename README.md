@@ -6,7 +6,7 @@ But that's one thing...
 
 
 - 🌱 I’m currently pursuing Masters in Robotics and Autonomous Systems
-- 🌐 My portfolio website can be found at: [tu-website.com](https://javipg32.github.io/)
+- 🌐 My portfolio website can be found at: [My portfolio](https://javipg32.github.io/)
 - 📫 How to reach me: magojp.contacto@gmail.com
 
 
